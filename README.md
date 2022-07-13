@@ -11,6 +11,7 @@ step3: run file ./delete-all-user.sh
 step4: output deleted your all user one by one 
 
 ########################################################################################################
+
 #!/bin/bash
 
 read -p  "Are you realy want to  delete all user(yes/no):" yn
